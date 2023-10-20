@@ -4,7 +4,7 @@
 ---
 <h3> 👨‍💻 About-me </h3>
 
-#### Profissional da área de desenvolvimento de software, atuando no momento em empresa do segmento de software para gestão comercial. Experiência consistente na condução das rotinas de desenvolvimento, manutenção e implementação de novas funcionalidades de software, realizando atividade tais como: criação de aplicações para plataforma desktop e web, criação e consumo de APIs, e modelagem e manutenção de base de dados.
+#### Profissional da área de desenvolvimento de software, atuando no momento como engenheiro de software júnior em empresa do segmento financeiro. Experiência consistente na condução das rotinas de desenvolvimento, manutenção e implementação de novas funcionalidades de software, realizando atividade tais como: criação de aplicações para plataforma desktop e web, criação e consumo de APIs, e modelagem e manutenção de base de dados.
 
 <h3> 🧰 Tools </h3>
 
